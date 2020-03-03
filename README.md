@@ -1,5 +1,3 @@
 # scJIVE
-
-A [workflowr][] project.
-
-[workflowr]: https://github.com/jdblischak/workflowr
+https://github.com/dleelab/scJIVE
+https://dleelab.github.io/scJIVE
