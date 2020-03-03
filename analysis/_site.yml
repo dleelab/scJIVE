@@ -1,17 +1,15 @@
-name: "scJIVE"
+name: "scJIVE analysis"
 output_dir: ../docs
 navbar:
   title: "scJIVE"
   left:
   - text: Home
     href: index.html
-  - text: About
-    href: about.html
-  - text: License
-    href: license.html
+  - text: GitHub
+    href: https://github.com/dleelab/scJIVE
 output:
   workflowr::wflow_html:
     toc: yes
     toc_float: yes
-    theme: cosmo
+    theme: cerulean
     highlight: textmate
